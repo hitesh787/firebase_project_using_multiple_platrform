@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486286152963",
+    "project_id": "flutterprojectformultiplepalt",
+    "storage_bucket": "flutterprojectformultiplepalt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486286152963:android:d2729f726ea0baaad5c536",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project_using_multiple_platrform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6aBp8RgSvjk0_Jrd8wYXCMYSR4UQKFUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
